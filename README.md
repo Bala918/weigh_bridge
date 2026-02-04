@@ -1,14 +1,3 @@
-Here is a complete, professional README.md you can copy-paste into your repository.
-
-This covers:
-
-✔ What the project is
-✔ Windows installation (EXE)
-✔ Linux installation
-✔ Auto-start
-✔ Frappe integration
-✔ Troubleshooting
-
 📦 Scale Agent
 
 Scale Agent is a lightweight background service that reads weight data from a weighing machine via serial port and exposes it as a REST API.
