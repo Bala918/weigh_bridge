@@ -116,8 +116,6 @@ Create Client Script:
 Desk → Customization → Client Script → New
 
 
-DocType: Sale IN OUT
-
 Enabled: ✔
 
 Paste:
